@@ -9,6 +9,9 @@ import  ticToeRoutes from './routes/tic-toe_routes.js';
 
 app.use( ticToeRoutes);
 
+app.get("/", (req, res) => {
+  res.send("Welcome to Tic-Tac-Toe API");
+});
 
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);

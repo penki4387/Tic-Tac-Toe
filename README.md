@@ -1,6 +1,6 @@
 # 🎮 Tic-Tac-Toe Game
 
-A simple Tic-Tac-Toe game built using **React.js & Tailwind CSS**.
+A simple Tic-Tac-Toe game built using NOde js
 
 ## 🚀 Features
 - 🔹 Play against a friend (2-player mode).
